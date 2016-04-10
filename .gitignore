@@ -1,0 +1,17 @@
+﻿bin/
+obj/
+.vs/
+
+packages/
+
+runtests.cmd
+SpecRunTestProfile.xsd
+Default.srprofile
+App.config
+
+.idea/
+mono.sln.iml
+mono.userprefs
+
+specrun.log
+mono_Default_**.html
