@@ -7,7 +7,6 @@ packages/
 runtests.cmd
 SpecRunTestProfile.xsd
 Default.srprofile
-App.config
 
 .idea/
 mono.sln.iml
