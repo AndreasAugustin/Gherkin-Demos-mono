@@ -1,4 +1,4 @@
-﻿language: csharp
+language: csharp
 solution: mono.sln
 before_script:
   - nuget restore mono.sln
