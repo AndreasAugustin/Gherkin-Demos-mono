@@ -4,3 +4,4 @@ before_script:
   - nuget restore mono.sln
 script:
   - xbuild /p:Configuration=Debug mono.sln
+
