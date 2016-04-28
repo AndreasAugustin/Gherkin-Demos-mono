@@ -5,6 +5,8 @@ Gherkin demo for MONO projects
 
 [![Build Status](https://travis-ci.org/AndreasAugustin/Gherkin-Demos-mono.svg?branch=master)](https://travis-ci.org/AndreasAugustin/Gherkin-Demos-mono)
 
+## ATTENTION Sadly the test is not running yet. I had no time to investigate the trick.
+
 # Requirements
 - Mono runtime
 - NUget
